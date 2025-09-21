@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.section-left {
+    background-color: blue;
+    color: white;
+    width: 70%;
+    padding: 24 px;
+}
