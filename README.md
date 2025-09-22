@@ -1,5 +1,7 @@
-# INST377-Lab
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LXHgsJqg)
+# INST377-Lab3
 
-# Name (Please Input your name):
+# Name: Anika Kagalavadi
 
 # Comments: 
+There are two files attached: lab.css and lab.html.
