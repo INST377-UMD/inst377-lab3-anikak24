@@ -3,4 +3,4 @@
 
 # Name: Anika Kagalavadi
 
-# Comments: 
+# Comments: There are two files attached: lab.css and lab.html.
